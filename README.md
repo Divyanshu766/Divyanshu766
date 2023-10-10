@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 ![Profile Picture](url-to-your-profile-picture)
 
-[GitHub](https://github.com/Divyanshu766) | [LinkedIn](https://www.linkedin.com/in/divyanshu-rawat-28348826b) | [Portfolio](https://divyanshu766.github.io/)
+[GitHub](https://github.com/Divyanshu766) | [LinkedIn](https://www.linkedin.com/in/divyanshu-rawat-28348826b)
 
 ## Profile Description
 
@@ -24,3 +24,9 @@ I'm Divyanshu Rawat, a B.A. Music student turned coding enthusiast, trained at M
 - **Location**: Deheradun, India
 - **Address**: Ranipokhari, Deheradun
 --->
+
+## Portfolio
+
+Check out my portfolio for a collection of my work and projects, deployed on GitHub Pages:
+
+[Portfolio](https://divyanshu766.github.io/)

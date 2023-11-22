@@ -1,32 +1,27 @@
-- 👋 Hi, I’m @Divyanshu766
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi, I'm Divyanshu Rawat! 👋
 
-<!---
-Divyanshu766/Divyanshu766 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+## 🚀 About Me
 
-# Divyanshu Rawat
+Aspiring Full Stack Web Developer with a passion for building web applications. I specialize in HTML, CSS, Java, JavaScript, React.
 
-![Profile Picture](url-to-your-profile-picture)
+🌐 I've had the pleasure of creating clones of popular websites like bewkoof.com and Green Paradise, demonstrating my skills in web development. My journey as a developer is just beginning, and I'm excited to share my progress with you.
 
-[GitHub](https://github.com/Divyanshu766) | [LinkedIn](https://www.linkedin.com/in/divyanshu-rawat-28348826b)
+📚 Currently, I'm enrolled in a comprehensive Full Stack Development course at Masai School, where I've delved into Data Structures and Algorithms (DSA) and honed my coding skills through extensive practice. The result? A collection of projects that showcase my dedication to continuous improvement.
 
-## Profile Description
+⏰ I'm known for my time-conscious nature, and I thrive on the challenge of creating innovative solutions. Join me on my coding journey as I explore new horizons and craft exciting web experiences.
 
-I'm Divyanshu Rawat, a B.A. Music student turned coding enthusiast, trained at Masai School. My passion for learning drives me to explore the ever-evolving world of technology. Join me as I blend music and coding, creating a unique fusion of art. Welcome to my creative World!
+Feel free to explore my repositories, and don't hesitate to reach out if you'd like to collaborate or have a chat about all things web development!
 
-## Contact Information
+## 🔗 Links
 
-- **Email**: Divyanshu.rawat.dev@gmail.com
-- **Location**: Deheradun, India
-- **Address**: Ranipokhari, Deheradun
---->
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://divyanshu766.github.io/)
 
-## Portfolio
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/divyanshu-rawat-28348826b)
 
-Check out my portfolio for a collection of my work and projects, deployed on GitHub Pages:
+## 🛠 Skills
 
-[Portfolio](https://divyanshu766.github.io/)
+- React
+- JavaScript
+- HTML
+- CSS
+- JAVA

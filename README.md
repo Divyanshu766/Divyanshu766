@@ -1,4 +1,4 @@
-# Hi, I'm Divyanshu Rawat! 👋
+### Hey , I'm [Divyanshu Rawat!](https://suraj-996.github.io) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">
 
 ## 🚀 About Me
 

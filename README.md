@@ -1,5 +1,7 @@
 ### Hey , I'm [Divyanshu Rawat!](https://suraj-996.github.io) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">
 
+<img width="40%" align="right" alt="Coding Boy" src="https://github.com/sanajitjana/sanajitjana/blob/master/coding.gif?raw=true" />
+
 ## 🚀 About Me
 
 Aspiring Full Stack Web Developer with a passion for building web applications. I specialize in HTML, CSS, Java, JavaScript, React.
